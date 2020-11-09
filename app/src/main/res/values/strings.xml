@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Autores</string>
+
+    <string name="instructions">Ingrese el Nombre del Libro para conocer su Autor:</string>
+    <string name="btn_text">Buscar Libro</string>
+    <string name="inputHint">Título del Libro</string>
+
+    <string name="title1">Libro</string>
+    <string name="title2">Detalle</string>
+    <string name="results">Resultados:</string>
+    <string name="Additional">Información Adicional:</string>
+    <string name="empty">Vacio</string>
+    <string name="description">Descripción:</string>
+</resources>
